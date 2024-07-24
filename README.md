@@ -1,8 +1,8 @@
-# boxFilterNPP - Box Filter with NPP
+# nppfilter
 
 ## Description
 
-A NPP CUDA Sample that demonstrates how to use NPP FilterBox function to perform a Box Filter.
+A NPP CUDA Sample that demonstrates how to use nppfilter function to perform a filter box.
 
 ## Key Concepts
 
@@ -46,7 +46,8 @@ To build/examine all the samples at once, the complete solution files should be 
 The Linux samples are built using makefiles. To use the makefiles, change the current directory to the sample directory you wish to build, and run make:
 ```
 $ cd <sample_dir>
-$ make
+$ make clean build
+$ make run
 ```
 The samples makefiles can take advantage of certain options:
 *  **TARGET_ARCH=<arch>** - cross-compile targeting a specific architecture. Allowed architectures are x86_64, ppc64le, armv7l.
