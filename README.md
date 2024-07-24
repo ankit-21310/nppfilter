@@ -73,7 +73,7 @@ ide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#system
 Original photo in colors
 ![grey-sloth](https://github.com/user-attachments/assets/8aa22595-51ff-4a32-b358-ed92f2da23cd)
 
-Output image converted using Laplace Filter
+Output image converted using nppfilterbox
 ![grey-sloth](https://github.com/user-attachments/assets/ea622d38-73d1-4456-8add-f6de1331a2f0)
-Output image converted using Laplace Filter
+Output image converted using nppFilterbox
 ![Lena_nppfilter](https://github.com/user-attachments/assets/d8e373bb-6c6b-4e6d-b998-f62aea6984ed)
