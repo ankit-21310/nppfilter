@@ -63,10 +63,17 @@ The samples makefiles can take advantage of certain options:
     $ make SMS="50 60"
     ```
 
-*  **HOST_COMPILER=<host_compiler>** - override the default g++ host compiler. See the [Linux Installation Guide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#system-requirements) for a list of supported host compilers.
+*  **HOST_COMPILER=<host_compiler>** - override the default g++ host compiler. See the [Linux Installation Gu![sloth](https://github.com/user-attachments/assets/bd79c8bb-849e-4bea-8cdf-1701b133863e)
+ide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#system-requirements) for a list of supported host compilers.
 ```
     $ make HOST_COMPILER=g++
 ```
 
 ## References (for more details)
+Original photo in colors
+![grey-sloth](https://github.com/user-attachments/assets/8aa22595-51ff-4a32-b358-ed92f2da23cd)
 
+Output image converted using Laplace Filter
+![grey-sloth](https://github.com/user-attachments/assets/ea622d38-73d1-4456-8add-f6de1331a2f0)
+Output image converted using Laplace Filter
+![Lena_nppfilter](https://github.com/user-attachments/assets/d8e373bb-6c6b-4e6d-b998-f62aea6984ed)
