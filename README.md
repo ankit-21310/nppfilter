@@ -65,9 +65,9 @@ The samples makefiles can take advantage of certain options:
 
 *  **HOST_COMPILER=<host_compiler>** - override the default g++ host compiler. See the [Linux Installation Gu![sloth](https://github.com/user-attachments/assets/bd79c8bb-849e-4bea-8cdf-1701b133863e)
 ide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#system-requirements) for a list of supported host compilers.
+```  $ make HOST_COMPILER=g++
 ```
-    $ make HOST_COMPILER=g++
-```
+![grey-sloth](https://github.com/user-attachments/assets/8aa22595-51ff-4a32-b358-ed92f2da23cd)
 Original photo in colors
 
 
