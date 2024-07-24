@@ -68,9 +68,8 @@ ide](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#system
 ```
     $ make HOST_COMPILER=g++
 ```
-
-## References (for more details)
 Original photo in colors
+
 ![grey-sloth](https://github.com/user-attachments/assets/8aa22595-51ff-4a32-b358-ed92f2da23cd)
 
 Output image converted using nppfilterbox
